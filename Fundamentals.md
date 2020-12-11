@@ -72,4 +72,24 @@
 
 ## Part Two
 
+### Security
+- Azure Active Directory (AD) - Azure's cloud-based identity and access management service.
+- Azure Multi-Factor Authentication - provides additional security for your identities by requiring two or more elements for full authentication.
+- Azure Firewall
+- Azure DDoS protectioin 
+- Network Security Groups (NSGs)
+- Application Security Groups (ASGs)
+- Azure key vault
+- Azure Information Protection 
+
+### Governance
+- Role-based access control (RBAC) - segregate duties within your team and grant only the required amount of access to users.
+- Resource Locks - protects your resources from accidental deletion.
+- Azure Blueprints - create reusable environments definitions that can recreate your Azure resources and apply your policies instantly.
+- Subscription Governance - Billing, Access Control, and Subscription Limits
+- Tags - provides metadata for your resousrces. Consists of a name-value pair.
+- Azure Service Health 
+
+### Privacy, compliance, and data protection
+
 
